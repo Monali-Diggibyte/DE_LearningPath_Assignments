@@ -1,0 +1,10 @@
+Employee_id,Emp_First_name,Emp_Last_Same,Experience,Salary
+10,Mohan,S.,9,60000
+20,Harish,K,2,25000
+30,Ashish,XYZ,3,30000
+40,Anupam,BBB,5,40000
+50,Xaviour,XYZ,8,50000
+60,john,,2,
+,**,**,,8000
+,,,,
+90,kamal,xyz,7,70000

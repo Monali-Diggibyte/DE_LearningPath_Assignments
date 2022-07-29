@@ -1,0 +1,10 @@
+Employee_ID,Emp_First_Name,Emp_Last_Name,DOB,Experience,Salary
+10,Mohan,S.,31-07-1983,9,60000
+20,Harish,K,02-11-1990,2,25000
+30,Ashish,XYZ,03-10-1991,3,30000
+40,Anupam,BBB,04-09-1952,5,40000
+50,Xaviour,XYZ,05-08-1987,8,50000
+60,john,,06-07-1983,2,
+,**,**,,,8000
+,,,,,
+90,kamal,xyz,07-06-1980,7,70000
